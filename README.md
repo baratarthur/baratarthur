@@ -5,9 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/baratarthur)](https://t.me/baratarthur)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurpbarata@gmail.com)](mailto:arthurpbarata@gmail.com)
 
----
-
-Sou Arthur Barata, futuro Engenheiro de Computação no mundo do Software
+Futuro Engenheiro de Computação no mundo do Software
 
 - 💼 Front-end Developer no Instituto de Pesquisas Eldorado
 - 💘 Techs: Javascript, Python, Docker
