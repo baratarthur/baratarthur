@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👨‍💻 Arthur Barata
 
-<!--
-**baratarthur/baratarthur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurbarata/)](https://www.linkedin.com/in/arthurbarata/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561992573332&text=Olá!)](https://api.whatsapp.com/send?phone=5561992573332&text=Olá!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/baratarthur)](https://t.me/baratarthur)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurpbarata@gmail.com)](mailto:arthurpbarata@gmail.com)
 
-Here are some ideas to get you started:
+#### Full-Stack Developer 😎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Arthur Barata, futuro Engenheiro de Computação no mundo do Software
+
+- 💼 Front-end Developer no Instituto de Pesquisas Eldorado
+- 💘 Techs: Javascript, Python, Docker
+- 💓 Frameworks: Flask, Express, React.js
