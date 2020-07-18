@@ -8,5 +8,5 @@
 Futuro Engenheiro de Computação no mundo do Software
 
 - 💼 Front-end Developer no Instituto de Pesquisas Eldorado
-- 💘 Techs: Machine Learning, Javascript, Python, Docker
-- 💓 Frameworks: Flask, Express, React.js
+- 💘 Techs: Machine Learning, Javascript, HTML, CSS, Python, Docker
+- 💓 Frameworks: Flask, Express, React.js, Sass
