@@ -8,7 +8,7 @@
 Futuro Engenheiro de Computação no mundo do Software
 
 - 💼 Front-end Developer no Instituto de Pesquisas Eldorado
-- 💘 Techs: Machine Learning, Javascript, HTML, CSS, Python, Docker
-- 💓 Frameworks: Flask, Express, React.js, Sass
+- 💘 Techs: Javascript, Typescript, HTML, CSS, Docker
+- 💓 Frameworks: Node.js, Express, React.js, Angular, Sass
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&layout=compact)](https://github.com/baratarthur/github-readme-stats)
