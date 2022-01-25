@@ -7,7 +7,7 @@
 
 Futuro Engenheiro de Computação no mundo do Software
 
-- 💼 Front-end Developer no Instituto de Pesquisas Eldorado
+- 💼 Front-end Developer na Time.ly
 - 💘 Techs: Javascript, Typescript, HTML, CSS, Docker
 - 💓 Frameworks: Node.js, Express, React.js, Angular, Sass
 
