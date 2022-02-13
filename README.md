@@ -11,4 +11,6 @@ Futuro Engenheiro de Computação no mundo do Software
 - 💘 Techs: Javascript, Typescript, HTML, CSS, Docker
 - 💓 Frameworks: Node.js, Express, React.js, Angular, Sass
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&layout=compact)](https://github.com/baratarthur/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&theme=dracula)](https://github.com/baratarthur/github-readme-stats)
+[![Github status](https://github-readme-stats.vercel.app/api?username=baratarthur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/baratarthur/github-readme-stats)
