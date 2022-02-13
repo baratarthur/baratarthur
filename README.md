@@ -12,5 +12,5 @@ Futuro Engenheiro de Computação no mundo do Software
 - 💓 Frameworks: Node.js, Express, React.js, Angular, Sass
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&theme=dracula&layout=compact)
-![Github status](https://github-readme-stats.vercel.app/api?username=baratarthur&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&theme=tokyonight)
+![Github status](https://github-readme-stats.vercel.app/api?username=baratarthur&theme=tokyonight&include_all_commits=true&count_private=true)
