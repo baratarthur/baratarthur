@@ -13,4 +13,4 @@ Futuro Engenheiro de Computação no mundo do Software
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&theme=dracula&layout=compact)
-![Github status](https://github-readme-stats.vercel.app/api?username=baratarthur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Github status](https://github-readme-stats.vercel.app/api?username=baratarthur&theme=dracula&include_all_commits=true&count_private=true)
