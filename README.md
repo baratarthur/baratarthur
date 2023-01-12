@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurpbarata@gmail.com)](mailto:arthurpbarata@gmail.com)
 ---
 
-#### 💼 Currently Front-end Developer
+#### 💼 Frontend Senior Developer
 #### 💘 Techs: Javascript, Typescript, HTML, CSS, Pyhon, Docker
 #### 💓 Frameworks: Node.js, Express, Flask, React.js, Angular, Sass
 
