@@ -1,20 +1,10 @@
-# Engineer of Computers 👨‍💻
+# 💼 Senior Frontend Developer
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthurbarata/)](https://www.linkedin.com/in/arthurbarata/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurpbarata@gmail.com)](mailto:arthurpbarata@gmail.com)
----
 
-## 💼 Frontend Senior Developer
-#### Main techs -> Angular | React.js
-#### Studying -> Node.js | Fastify
+#### Main langs - Javascript | Typescript
+#### Main techs - Angular | React.js
+#### Studying - Node.js | Fastify
 
----
-<div align="center">
-  <a href="https://github.com/baratarthur?tab=repositories">
-    <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&theme=tokyonight&layout=compact" />
-  </a> 
-  <a href="https://github.com/baratarthur?tab=repositories">
-    <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api?username=baratarthur&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-</div>
-
-
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
