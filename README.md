@@ -7,4 +7,4 @@
 #### Main techs - Angular | React.js
 #### Studying - Node.js | Fastify
 
-[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&hide_progress=true)](https://github.com/baratarthur?tab=repositories)
