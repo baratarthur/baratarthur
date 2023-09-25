@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurpbarata@gmail.com)](mailto:arthurpbarata@gmail.com)
 
 #### Main langs - Javascript | Typescript
-#### Main techs - Angular | React.js
-#### Studying - Node.js | Fastify
+#### Main techs - Angular | React.js | Node.js | Fastify | Nest.js
+#### Studying - AWS
 
 [![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=baratarthur&hide_progress=true)](https://github.com/baratarthur?tab=repositories)
